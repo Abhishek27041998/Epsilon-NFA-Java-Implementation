@@ -14,6 +14,7 @@ public class EpsilonNFA {
     int states;
     int symbols;
     int finalStates;
+//This line is for testing purpose
     
     
     int[] symbolArray;
